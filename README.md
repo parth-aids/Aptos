@@ -33,7 +33,23 @@ To empower independent creators, developers, and community members by providing 
 ## 📍 Contract Address  
 
 > **Deployed Address:** `0xYOUR_CONTRACT_ADDRESS_HERE`  
-*(Replace with actual deployed address once published)*
+```
+{
+  "Result": {
+    "transaction_hash": "0x63c80eca9a062c7ae36c0060c2718771873091b0b8e036745ec1dc98a6160c0d",
+    "gas_used": 1951,
+    "gas_unit_price": 100,
+    "sender": "742c4223abfbf66534fab1a8242f4ea52448a432145d7dc1ae2629c6a8baf32d",
+    "sequence_number": 0,
+    "replay_protector": {
+      "SequenceNumber": 0
+    },
+    "success": true,
+    "timestamp_us": 1754650717761237,
+    "version": 27897029,
+    "vm_status": "Executed successfully"
+  }
+```
 
 ---
 
