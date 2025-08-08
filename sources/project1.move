@@ -4,6 +4,7 @@ module MyModule::TipJar {
     use aptos_framework::coin;
     use aptos_framework::aptos_coin::AptosCoin;
 
+
     /// Struct to hold tip jar data
     struct Jar has store, key {
         total_tips: u64, // Total tips received

@@ -3,7 +3,10 @@ name = "project1"
 version = "1.0.0"
 authors = []
 
+
 [addresses]
+MyModule = "0x742c4223abfbf66534fab1a8242f4ea52448a432145d7dc1ae2629c6a8baf32d"
+
 
 [dev-addresses]
 
