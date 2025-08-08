@@ -31,8 +31,6 @@ To empower independent creators, developers, and community members by providing 
 ---
 
 ## 📍 Contract Address  
-
-> **Deployed Address:** `0xYOUR_CONTRACT_ADDRESS_HERE`  
 ```
 {
   "Result": {
